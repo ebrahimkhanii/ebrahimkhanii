@@ -1,112 +1,146 @@
-<!-- Header -->
-<div align="center">
+ <div align="center">
 
-```
-███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗ █████╗ ██████╗ ██████╗ ███████╗███████╗ █████╗ 
-████╗ ████║██╔═══██╗██║  ██║██╔══██╗████╗ ████║████╗ ████║██╔══██╗██╔══██╗██╔══██╗██╔════╝╚══███╔╝██╔══██╗
-██╔████╔██║██║   ██║███████║███████║██╔████╔██║██╔████╔██║███████║██║  ██║██████╔╝█████╗    ███╔╝ ███████║
-██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║  ██║██╔══██╗██╔══╝   ███╔╝  ██╔══██║
-██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██████╔╝██║  ██║███████╗███████╗██║  ██║
-╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=%F0%9F%94%90+Cybersecurity+Researcher;%F0%9F%92%BB+MohammadReza;%F0%9F%90%A7+developer+%7C+Pentester;%F0%9F%9B%A1%EF%B8%8F+a+17-yo+student" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:101010,50:242424,100:0A0A0A&text=MOHAMMADREZA&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=SOFTWARE%20DEVELOPER%20%7C%20CYBERSECURITY%20%7C%20DATA%20SCIENCE&descSize=13&descAlignY=62&descColor=D6B76A" width="100%" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=kebram60-stack&style=for-the-badge&color=00ff41&labelColor=0d0d0d)](https://github.com/kebram60-stack)
+<a href="https://github.com/ebrahimkhanii">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=D6B76A&center=true&vCenter=true&width=650&lines=Building+software+with+purpose.;Exploring+security%2C+data+and+technology.;Learning.+Building.+Improving." alt="Introduction" />
+</a>
+
+<br/>
+
+<a href="https://github.com/ebrahimkhanii">
+  <img src="https://komarev.com/ghpvc/?username=ebrahimkhanii&style=flat-square&color=D6B76A&label=PROFILE+VIEWS" alt="Profile views" />
+</a>
+<a href="https://github.com/ebrahimkhanii?tab=followers">
+  <img src="https://img.shields.io/github/followers/ebrahimkhanii?style=flat-square&color=242424&labelColor=101010&logo=github&label=FOLLOWERS" alt="Followers" />
+</a>
+<a href="https://github.com/ebrahimkhanii?tab=repositories">
+  <img src="https://img.shields.io/badge/OPEN%20SOURCE-181818?style=flat-square&logo=github&logoColor=D6B76A" alt="Open source" />
+</a>
 
 </div>
 
 ---
 
-<!-- About Me -->
-## `$ whoami`
+## About Me
 
-```bash
-> MohammadReza — Cybersecurity Researcher & Developer
-> Focus     : Penetration Testing · Network Security · Exploit Dev
-> Status    : Always learning? 
-> Location  : 🌍 Ir-Karaj
-> Mission   : create and use the useful weapon
-```
+I'm **MohammadReza EbrahimKhani**, a developer and technology enthusiast interested in building useful software, understanding computer systems, and exploring the intersection of cybersecurity and data science.
 
----
+I enjoy turning ideas into practical projects, experimenting with different technologies, and continuously improving my engineering skills.
 
-<!-- Skills -->
-## `$ cat skills.txt`
-
-### 🔐 Cybersecurity
-![Cyber Security](https://img.shields.io/badge/Cyber_Security-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- **Software Development** — Building applications and practical tools.
+- **Cybersecurity** — Exploring network security, Linux, and penetration testing in authorized environments.
+- **Data Science** — Interested in Python, data analysis, and extracting meaningful insights from data.
+- **Systems & Technology** — Working across Windows and Linux environments.
+- **Mindset** — Learn deeply. Build thoughtfully. Improve continuously.
 
 ---
 
-<!-- GitHub Stats -->
-## `$ git stats`
+## Technical Skills
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kebram60-stack&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=ffffff&border_color=00ff41"/>
+### Programming Languages
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebram60-stack&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&title_color=00ff41&text_color=ffffff&border_color=00ff41"/>
+<img src="https://skillicons.dev/icons?i=python,js,php,cs&theme=dark" alt="Programming languages" />
+
+### Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" alt="Web development" />
+
+### Data & Databases
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Database technologies" />
+
+### Operating Systems & Tools
+
+<img src="https://skillicons.dev/icons?i=windows,linux,kali,bash,git,github,vscode&theme=dark" alt="Operating systems and development tools" />
 
 </div>
 
-<div align="center">
+### Areas of Interest
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kebram60-stack&theme=terminal&background=0D0D0D&border=00FF41&stroke=00FF41&ring=00FF41&fire=FF6600&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<!-- Activity -->
-## `$ tail -f activity.log`
-
-[![MohammadReza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kebram60-stack&bg_color=0d0d0d&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=false&border_color=00ff41)](https://github.com/ashutosh00710/github-readme-activity-graph)
+| Domain | Focus |
+|:--|:--|
+| Software Engineering | Application development, programming fundamentals |
+| Cybersecurity | Network security, security testing, Linux |
+| Data Science | Python, data analysis, data visualization |
+| Web Technologies | HTML, CSS, JavaScript, React, PHP |
+| Databases | MySQL, data modeling, SQL |
+| Operating Systems | Windows, Linux, system administration |
 
 ---
 
-<!-- Contact -->
-## `$ ping me`
+## GitHub Analytics
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rapebram)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rapebram)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kebram60@gmail.com)
+<a href="https://github.com/ebrahimkhanii">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=ebrahimkhanii&show_icons=true&hide_border=true&bg_color=101010&title_color=D6B76A&text_color=E5E5E5&icon_color=D6B76A&rank_icon=github" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/ebrahimkhanii">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahimkhanii&layout=compact&hide_border=true&bg_color=101010&title_color=D6B76A&text_color=E5E5E5" alt="Most used languages" />
+</a>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=ebrahimkhanii&hide_border=true&background=101010&ring=D6B76A&fire=D6B76A&currStreakLabel=D6B76A&sideLabels=E5E5E5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub contribution streak" width="75%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ebrahimkhanii&bg_color=101010&color=D6B76A&line=D6B76A&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity" />
 
 </div>
 
 ---
 
+## Featured Projects
+
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║  "The quieter you become, the more you can hear."    ║
-║                              — developer             ║
-╚══════════════════════════════════════════════════════╝
-```
+<a href="https://github.com/ebrahimkhanii?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-101010?style=for-the-badge&logo=github&logoColor=D6B76A" alt="Explore repositories" />
+</a>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&fontColor=000000)
+</div>
+
+Explore my repositories to discover the projects I'm building, the technologies I'm exploring, and the problems I'm working to solve.
+
+I'm continuously learning and developing projects across software engineering, cybersecurity, and data science.
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/ebrahimkhanii">
+  <img src="https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+</a>
+<a href="https://t.me/rapebram">
+  <img src="https://img.shields.io/badge/Telegram-181818?style=for-the-badge&logo=telegram&logoColor=D6B76A" alt="Telegram" />
+</a>
+<a href="https://linkedin.com/in/rapebram">
+  <img src="https://img.shields.io/badge/LinkedIn-181818?style=for-the-badge&logo=linkedin&logoColor=D6B76A" alt="LinkedIn" />
+</a>
+<a href="mailto:kebram60@gmail.com">
+  <img src="https://img.shields.io/badge/Email-181818?style=for-the-badge&logo=gmail&logoColor=D6B76A" alt="Email" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### BUILD WITH PURPOSE. LEARN WITHOUT LIMITS.
+
+<sub>Driven by curiosity. Defined by what I build.</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101010,50:242424,100:D6B76A&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
