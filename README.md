@@ -4,17 +4,15 @@
 
 <br/>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=D6B76A&center=true&vCenter=true&width=720&lines=Artificial+Intelligence+%26+Intelligent+Systems;Cybersecurity+Research+%26+Security+Engineering;Building+Ideas+Into+Real+Projects;Curiosity+Is+My+Competitive+Advantage" alt="Professional introduction" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=D6B76A&center=true&vCenter=true&width=720&lines=Artificial+Intelligence+%26+Intelligent+Systems;Cybersecurity+Research+%26+Security+Engineering;Building+Ideas+Into+Real+Projects;Curiosity+Is+My+Competitive+Advantage" alt="Professional introduction" />
 
 <br/><br/>
 
-<a href="https://github.com/ebrahimkhanii">
-  <img src="https://komarev.com/ghpvc/?username=ebrahimkhanii&style=flat-square&color=D6B76A&label=PROFILE+VIEWS" alt="Profile views" />
-</a>
 <a href="https://github.com/ebrahimkhanii?tab=followers">
   <img src="https://img.shields.io/github/followers/ebrahimkhanii?style=flat-square&color=181818&labelColor=101010&logo=github&logoColor=D6B76A&label=FOLLOWERS" alt="GitHub followers" />
+</a>
+<a href="https://github.com/ebrahimkhanii?tab=repositories">
+  <img src="https://img.shields.io/badge/OPEN%20SOURCE-181818?style=flat-square&logo=github&logoColor=D6B76A" alt="Open source" />
 </a>
 
 <br/><br/>
@@ -29,7 +27,7 @@
 
 I'm **MohammadReza EbrahimKhani**, an aspiring AI developer and cybersecurity researcher passionate about understanding complex systems and building useful technology.
 
-My two primary areas of focus are **Artificial Intelligence** and **Cybersecurity**. I am also interested in data science, software engineering, and operating systems.
+My two primary areas of focus are **Artificial Intelligence** and **Cybersecurity**. I'm also interested in data science, software engineering, and operating systems.
 
 I believe the best way to learn technology is to explore it deeply, build practical projects, and understand how things work under the hood.
 
@@ -37,7 +35,7 @@ I believe the best way to learn technology is to explore it deeply, build practi
 - **Cybersecurity Research:** Studying network security, system security, and authorized security testing.
 - **Data Science:** Exploring data analysis, data mining, and extracting insights from datasets.
 - **Software Engineering:** Turning ideas into maintainable, practical applications.
-- **Systems:** Working with Windows and Red Hat Linux environments.
+- **Systems:** Working with Windows and Red Hat environments.
 
 <div align="center">
 
@@ -55,7 +53,7 @@ I believe the best way to learn technology is to explore it deeply, build practi
 
 ### Artificial Intelligence
 
-<img src="https://img.shields.io/badge/AI%20Development-101010?style=flat-square&logo=googlecolab&logoColor=D6B76A" alt="AI development" />
+<img src="https://img.shields.io/badge/AI%20DEVELOPMENT-101010?style=flat-square&logo=googlecolab&logoColor=D6B76A" alt="AI development" />
 
 Exploring intelligent applications and the technologies behind modern AI systems.
 
@@ -69,12 +67,12 @@ Exploring intelligent applications and the technologies behind modern AI systems
 
 ### Cybersecurity
 
-<img src="https://img.shields.io/badge/Security%20Research-101010?style=flat-square&logo=owasp&logoColor=D6B76A" alt="Cybersecurity research" />
+<img src="https://img.shields.io/badge/SECURITY%20RESEARCH-101010?style=flat-square&logo=owasp&logoColor=D6B76A" alt="Cybersecurity research" />
 
 Learning how systems work, where they fail, and how to make them more secure.
 
 - Network security
-- Penetration testing in authorized environments
+- Authorized penetration testing
 - Linux and system security
 - Security tooling and automation
 
@@ -85,7 +83,7 @@ Learning how systems work, where they fail, and how to make them more secure.
 
 ### Data Science
 
-<img src="https://img.shields.io/badge/Data%20Science-101010?style=flat-square&logo=python&logoColor=D6B76A" alt="Data science" />
+<img src="https://img.shields.io/badge/DATA%20SCIENCE-101010?style=flat-square&logo=python&logoColor=D6B76A" alt="Data science" />
 
 Working toward turning raw data into useful information.
 
@@ -99,7 +97,7 @@ Working toward turning raw data into useful information.
 
 ### Software Engineering
 
-<img src="https://img.shields.io/badge/Software%20Engineering-101010?style=flat-square&logo=code&logoColor=D6B76A" alt="Software engineering" />
+<img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-101010?style=flat-square&logo=code&logoColor=D6B76A" alt="Software engineering" />
 
 Developing practical tools and applications through continuous experimentation.
 
@@ -120,7 +118,7 @@ Developing practical tools and applications through continuous experimentation.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,php,cs&theme=dark" alt="Python, JavaScript, PHP and C Sharp" />
+<img src="https://skillicons.dev/icons?i=python,js,php,cs,swift&theme=dark" alt="Python, JavaScript, PHP, C Sharp and Swift" />
 
 </div>
 
@@ -136,9 +134,9 @@ Developing practical tools and applications through continuous experimentation.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,pytorch,tensorflow,jupyter&theme=dark" alt="Python, NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow and Jupyter" />
+<img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,sklearn,jupyter&theme=dark" alt="Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn and Jupyter Notebook" />
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/DATA%20ANALYSIS-181818?style=for-the-badge&logo=python&logoColor=D6B76A" alt="Data analysis" />
 <img src="https://img.shields.io/badge/DATA%20MINING-181818?style=for-the-badge&logoColor=D6B76A" alt="Data mining" />
@@ -153,11 +151,11 @@ Developing practical tools and applications through continuous experimentation.
 
 </div>
 
-### Databases & Development Tools
+### Databases
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,git&theme=dark" alt="MySQL and Git" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
 
 </div>
 
@@ -179,9 +177,17 @@ Developing practical tools and applications through continuous experimentation.
 
 <img width="90%" src="https://streak-stats.demolab.com?user=ebrahimkhanii&hide_border=true&background=101010&ring=D6B76A&fire=D6B76A&currStreakLabel=D6B76A&sideLabels=E5E5E5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub contribution streak" />
 
-<br/><br/>
+</div>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ebrahimkhanii&bg_color=101010&color=D6B76A&line=D6B76A&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<a href="https://github-readme-activity-graph.vercel.app/graph?username=ebrahimkhanii&bg_color=101010&color=D6B76A&line=D6B76A&point=FFFFFF&area=true&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ebrahimkhanii&bg_color=101010&color=D6B76A&line=D6B76A&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph" />
+</a>
 
 </div>
 
@@ -191,7 +197,9 @@ Developing practical tools and applications through continuous experimentation.
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ebrahimkhanii&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub achievements" />
+<a href="https://github.com/ebrahimkhanii">
+  <img src="https://github-profile-trophy.vercel.app/?username=ebrahimkhanii&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="GitHub achievements and trophies" />
+</a>
 
 </div>
 
@@ -201,7 +209,9 @@ Developing practical tools and applications through continuous experimentation.
 
 <div align="center">
 
-<img width="100%" src="https://github-contributor-stats.vercel.app/api?username=ebrahimkhanii&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top repositories by contribution" />
+<a href="https://github.com/ebrahimkhanii?tab=repositories">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ebrahimkhanii&limit=5&theme=dark&combine_all_yearly_contributions=true" width="100%" alt="Top repositories by contribution" />
+</a>
 
 </div>
 
@@ -219,14 +229,14 @@ I use my projects to explore ideas, develop practical solutions, and deepen my u
 
 </div>
 
-**What I aim to build:**
+**Areas I aim to build in:**
 
 - AI-powered applications and intelligent tools.
 - Cybersecurity utilities for authorized testing and defensive research.
 - Data analysis and data mining projects.
 - Software applications that solve practical problems.
 
-For the latest work, visit [my repositories](https://github.com/ebrahimkhanii?tab=repositories).
+Explore my [repositories](https://github.com/ebrahimkhanii?tab=repositories) for the latest work.
 
 ---
 
@@ -253,7 +263,7 @@ I'm focused on strengthening my foundations, building useful projects, and conne
 <div align="center">
 
 <a href="https://github.com/ebrahimkhanii">
-  <img src="https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub profile" />
+  <img src="https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 </a>
 <a href="https://t.me/rapebram">
   <img src="https://img.shields.io/badge/Telegram-181818?style=for-the-badge&logo=telegram&logoColor=D6B76A" alt="Telegram" />
@@ -275,7 +285,7 @@ Open to learning, meaningful collaboration, and interesting technical challenges
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101010,50:292929,100:D6B76A&height=120&section=footer" width="100%" alt="Gold and black footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101010,50:292929,100:D6B76A&height=120&section=footer" width="100%" alt="Black and gold footer" />
 
 <sub>Designed with intention · Built through curiosity · Improved with every project</sub>
 
