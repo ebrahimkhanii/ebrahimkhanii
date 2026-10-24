@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-[About](#about-me) · [Expertise](#core-expertise) · [Tech Stack](#technology-stack) · [Analytics](#github-analytics) · [Projects](#selected-projects) · [Contact](#connect)
+<a href="#about-me">About</a> · <a href="#core-expertise">Expertise</a> · <a href="#technology-stack">Tech Stack</a> · <a href="#github-analytics">Analytics</a> · <a href="#selected-projects">Projects</a> · <a href="#connect">Contact</a>
 
 </div>
 
@@ -134,9 +134,38 @@ Developing practical tools and applications through continuous experimentation.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,sklearn,jupyter&theme=dark" alt="Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn and Jupyter Notebook" />
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://cdn.simpleicons.org/pandas/150458" width="44" alt="Pandas" />
+<br/><strong>Pandas</strong>
+</td>
+<td align="center" width="33%">
+<img src="https://cdn.simpleicons.org/numpy/013243" width="44" alt="NumPy" />
+<br/><strong>NumPy</strong>
+</td>
+<td align="center" width="33%">
+<img src="https://cdn.simpleicons.org/matplotlib/FFFFFF" width="44" alt="Matplotlib" />
+<br/><strong>Matplotlib</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://cdn.simpleicons.org/seaborn/4C72B0" width="44" alt="Seaborn" />
+<br/><strong>Seaborn</strong>
+</td>
+<td align="center" width="33%">
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="44" alt="Scikit-learn" />
+<br/><strong>Scikit-learn</strong>
+</td>
+<td align="center" width="33%">
+<img src="https://cdn.simpleicons.org/jupyter/F37626" width="44" alt="Jupyter Notebook" />
+<br/><strong>Jupyter Notebook</strong>
+</td>
+</tr>
+</table>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/DATA%20ANALYSIS-181818?style=for-the-badge&logo=python&logoColor=D6B76A" alt="Data analysis" />
 <img src="https://img.shields.io/badge/DATA%20MINING-181818?style=for-the-badge&logoColor=D6B76A" alt="Data mining" />
@@ -185,9 +214,7 @@ Developing practical tools and applications through continuous experimentation.
 
 <div align="center">
 
-<a href="https://github-readme-activity-graph.vercel.app/graph?username=ebrahimkhanii&bg_color=101010&color=D6B76A&line=D6B76A&point=FFFFFF&area=true&hide_border=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ebrahimkhanii&bg_color=101010&color=D6B76A&line=D6B76A&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ebrahimkhanii&bg_color=101010&color=D6B76A&line=D6B76A&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph" />
 
 </div>
 
@@ -197,9 +224,7 @@ Developing practical tools and applications through continuous experimentation.
 
 <div align="center">
 
-<a href="https://github.com/ebrahimkhanii">
-  <img src="https://github-profile-trophy.vercel.app/?username=ebrahimkhanii&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="GitHub achievements and trophies" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=ebrahimkhanii&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="GitHub achievements and trophies" />
 
 </div>
 
